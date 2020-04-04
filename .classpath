@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="features"/>
+	<classpathentry kind="lib" path="C:/Users/PEACEHOUSE/Downloads/Cucumber Jar files/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PEACEHOUSE/Downloads/Cucumber Jar files/cucumber-jvm-deps-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PEACEHOUSE/Downloads/Cucumber Jar files/cucumber-reporting-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PEACEHOUSE/Downloads/Cucumber Jar files/hamcrest-all-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PEACEHOUSE/Downloads/Cucumber Jar files/junit-4.13.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/PEACEHOUSE/Downloads/Cucumber Jar files/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PEACEHOUSE/Downloads/cucumber-core-1.2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PEACEHOUSE/Downloads/cucumber-java-1.2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PEACEHOUSE/Downloads/cucumber-junit-1.2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PEACEHOUSE/Downloads/Selelium Jar files/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
